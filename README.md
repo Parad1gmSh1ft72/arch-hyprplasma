@@ -5,7 +5,6 @@ Written and implimented by Charles Cravens.
  
 Sources: Personal experience, the fabled "ArchWiki" (https://www.archlinux.org/), and Stephen Raabe for dotfile scripting (https://gitlab.com/stephan-raabe)
 
-
 <div style="background"></a><img src="cover.png" /></div>
 
 <div style="page-break-after: always;"></a></div>
