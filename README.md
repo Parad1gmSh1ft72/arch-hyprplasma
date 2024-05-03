@@ -1,18 +1,16 @@
 # arch-hyprplasma
 Arch Linux Install Guide w/ Hyprland and KDE Plasma - 'BTRFS w/ bootable snapshots'
----
-Written and implimented by Charles Cravens
----
-Sources: Personal experience, and the fabled "ArchWiki" (https://www.archlinux.org/)
----
 
-<div style="text-align:center"></a><img src=".jpg" /></div>
+Written and implimented by Charles Cravens.
+ 
+Sources: Personal experience, the fabled "ArchWiki" (https://www.archlinux.org/), and Stephen Raabe for dotfile scripting (https://gitlab.com/stephan-raabe)
+
+
+<div style="background"></a><img src="cover.png" /></div>
 
 <div style="page-break-after: always;"></a></div>
 
 # <a name="Title"></a> **Arch Linux Install Guide, 2024**
-
----
 
 Covers Installation and configuration through DE install of KDE Plasma desktop prior to configuring Hyprland.
 
