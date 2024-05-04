@@ -1,7 +1,7 @@
 # arch-hyprplasma
 Arch Linux Install Guide w/ Hyprland and KDE Plasma - 'BTRFS w/ bootable snapshots'
 
-Written and implimented by Charles Cravens.
+Written and implemented by Charles Cravens.
  
 Sources: Personal experience, the fabled "ArchWiki" (https://www.archlinux.org/), and Stephen Raabe for dotfile scripting (https://gitlab.com/stephan-raabe)
 
