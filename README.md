@@ -28,10 +28,10 @@ This particular procedure is geared towards OS installation on my laptop worksta
 
 ---
 
-[Optional Install Script](#1-a)
+[Optional Install Sc
+[Verify the Boot Mode](#1c)  ript](#1-a)
 [Boot the Live Environment](#1a)  
 [Set the Keyboard Layout](#1b)  
-[Verify the Boot Mode](#1c)  
 [Connect to the Internet](#1d)  
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*[Setup Wi-FI](#1da)*  
 [Update the System clock](#1e)  
